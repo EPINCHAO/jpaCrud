@@ -1,0 +1,7 @@
+controller\exceptions\PreexistingEntityException.class
+controller\exceptions\NonexistentEntityException.class
+controller\ClientesJpaController.class
+controller\exceptions\IllegalOrphanException.class
+entity\Clientes.class
+entity\Clientes_.class
+com\mycompany\prueba\Prueba.class
